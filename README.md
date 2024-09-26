@@ -11,7 +11,7 @@ This project is a premium code generator website built with Flask for the backen
 ## Live Demo
 
 The live version of this project can be accessed at:  
-`https://your-username.github.io/your-repository/`
+`(https://abdude123.github.io/Gen-Rator/)`
 
 
 ## Technologies Used
